@@ -1,3 +1,7 @@
+# online-rental-system
+
+## HOW TO RUN
+
 IDE: IntelliJ IDEA
 Database: MySQL
 
